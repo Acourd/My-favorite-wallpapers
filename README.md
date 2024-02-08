@@ -1,7 +1,10 @@
 <h3 align="center">
-[![imagen-2024-02-07-191429232.png](https://i.postimg.cc/Y01dSqbY/imagen-2024-02-07-191429232.png)](https://postimg.cc/V0kqG1yk)
-[![imagen-2024-02-07-191752396.png](https://i.postimg.cc/brM0hGXq/imagen-2024-02-07-191752396.png)](https://postimg.cc/1VGV035d)
-# **My favorite wallpapers**
+<img src="https://i.postimg.cc/Y01dSqbY/imagen-2024-02-07-191429232.png" width="100" alt="Logo"/><br/>
+  <br>
+ My favorite wallpapers
 </h3>
+
+<p align="center">
 Here I will leave some of my favorite wallpapers. Thanks for visiting!!
+</p>
 
