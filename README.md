@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://i.postimg.cc/Y01dSqbY/imagen-2024-02-07-191429232.png" width="100" alt="Logo"/><br/>
+<img src="https://i.postimg.cc/Pf36vhPZ/zyro-image.png" width="150" alt="Logo"/><br/>
   <br>
  My favorite wallpapers
 </h3>
